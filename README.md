@@ -19,7 +19,11 @@ vue.use(component)
 ```
 ### 局部引用
 ```js
+<template>
+    <div>
 <yourComponentName></yourComponentName>
+    </div>
+</template>
 import {yourComponentName} from "dist/esm/index.js"
 export default{
     components:{
