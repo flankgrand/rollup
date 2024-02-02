@@ -1,5 +1,5 @@
 # Rollup打包vue2组件
-### 拉去依赖
+### 拉取依赖
 npm i
 ### 添加组件
 在/scr/components创建添加组件
